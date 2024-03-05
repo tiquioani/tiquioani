@@ -3,6 +3,12 @@
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&color=00E901&center=true&width=435&lines=💙💙💙💎💎+A+N+I+L+O+V+💎💎💙💙💙" alt="Typing SVG" /></a></h3> 
 <h3 align="center">A passionate software engineer from the Philippines</h3> 
 
+- 👩🏻‍💻 Software Engineer practioner sharing about my journey and learnings in tech
+
+- 👩🏻‍🎓
+
+- 🌷 I’m currently learning and exploring new technologies
+
 - 👨‍💻 All of my projects are available on [Artificial Ledger Technology](https://github.com/Artificial-Ledger-Technology)
 
 - 💬 Ask me about **Anything related to software development, computer science, or tech in general**
