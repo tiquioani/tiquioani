@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anilov</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tiquioani&label=Profile%20views&color=0e75b6&style=flat" alt="tiquioani" /> </p>  
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tiquioani&label=Profile%20views&color=0e75b6&style=flat" alt="tiquioani" /> </p> 
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&color=00E901&center=true&width=435&lines=💙💙💙💎💎+A+N+I+L+O+V+💎💎💙💙💙" alt="Typing SVG" /></a></h3> 
 <h3 align="center">A passionate software engineer from the Philippines</h3> 
 
 - 👨‍💻 All of my projects are available on [Artificial Ledger Technology](https://github.com/Artificial-Ledger-Technology)
