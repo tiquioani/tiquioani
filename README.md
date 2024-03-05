@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tiquioani" alt="tiquioani" /></a> </p> 
 
-- 👨‍💻 All of my projects are available on [Artificial Ledger Technology] [https://github.com/ArtificialLedgerTechnology](https://github.com/ArtificialLedgerTechnology)
+- 👨‍💻 All of my projects are available on [Artificial Ledger Technology](https://github.com/Artificial-Ledger-Technology)
 
 - 💬 Ask me about **Anything related to software development, computer science, or tech in general**
 
