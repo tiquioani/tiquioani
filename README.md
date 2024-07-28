@@ -23,6 +23,10 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 <a href="https://buymeacoffee.com/flexycode" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </div>
 
+<!-- Coffee GIF -->
+<div align="center">
+<img width="200" height="200" src="https://media.giphy.com/media/pEuD18F5xjR9SNVmYz/giphy.gif?cid=ecf05e477msbxbsg2s2m2rlbro0u4tz1i1icm1t4vug8mqne&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
+
 
 <!-- Introduction effect style for ANILOV -->
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&color=00E901&center=true&width=435&lines=💙💙💎💎+A+N+I+L+O+V+💎💎💙💙" alt="Typing SVG" /></a></h3>   
