@@ -15,6 +15,13 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&color=00E901&center=true&width=435&lines=💙💙💎💎+A+N+I+L+O+V+💎💎💙💙" alt="Typing SVG" /></a></h3>   
 <h3 align="center">A passionate software engineer from the Philippines</h3> 
 
+<!-- Button Pannel for Github followers and views for tiquioani -->
+<p align="center">
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/tiquioani?color=236ad3&style=for-the-badge&logo=github&label=Followers"/>
+<img src="https://img.shields.io/twitter/follow/tiquioani?logo=twitter&style=for-the-badge" alt="tiquioani" />
+<img src="https://komarev.com/ghpvc/?username=tiquioani&color=blue&style=for-the-badge" alt="tiquioani" />
+</p>
+
 - 👩🏻‍🎓 Aspiring Digital Forensic Analyst
 
 - 👩🏻‍💻 Software Engineer practioner sharing about my journey and learnings in tech
