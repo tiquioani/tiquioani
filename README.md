@@ -11,16 +11,24 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 
 <i class="fab fa-pinterest"></i>
 
-<!-- Introduction effect style for ANILOV -->
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&color=00E901&center=true&width=435&lines=💙💙💎💎+A+N+I+L+O+V+💎💎💙💙" alt="Typing SVG" /></a></h3>   
-<h3 align="center">A passionate software engineer from the Philippines</h3> 
-
 <!-- Button Pannel for Github followers and views for tiquioani -->
 <p align="center">
 <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/tiquioani?color=236ad3&style=for-the-badge&logo=github&label=Followers"/>
 <img src="https://img.shields.io/twitter/follow/tiquioani?logo=twitter&style=for-the-badge" alt="tiquioani" />
 <img src="https://komarev.com/ghpvc/?username=tiquioani&color=blue&style=for-the-badge" alt="tiquioani" />
 </p>
+
+<!-- Buy me a coffee link :) , you can replace the link if you already have one. Just leave this for now to support my page -->
+<div align="center">
+<a href="https://buymeacoffee.com/flexycode" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+</div>
+
+
+<!-- Introduction effect style for ANILOV -->
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&color=00E901&center=true&width=435&lines=💙💙💎💎+A+N+I+L+O+V+💎💎💙💙" alt="Typing SVG" /></a></h3>   
+<h3 align="center">A passionate software engineer from the Philippines</h3> 
+
+
 
 - 👩🏻‍🎓 Aspiring Digital Forensic Analyst
 
