@@ -36,6 +36,7 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 <br>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
+<!-- Describe yourself -->
 </div>
 
 - 👩🏻‍🎓 Aspiring Digital Forensic Analyst
@@ -54,7 +55,9 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 
 - 📫 Connect with me on LinkedIn: [Anilov Tiquio](https://www.linkedin.com/in/anilov-tiquio) **anilov.tiquio@gmail.com**
 
-- ⚡ Fun fact **I love playing and watching Volleyball!** 
+- ⚡ Fun fact **I love playing and watching Volleyball!**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
