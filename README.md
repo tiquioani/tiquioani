@@ -30,9 +30,13 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 
 <!-- Introduction effect style for ANILOV -->
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&color=00E901&center=true&width=435&lines=💙💙💎💎+A+N+I+L+O+V+💎💎💙💙" alt="Typing SVG" /></a></h3>   
-<h3 align="center">A passionate software engineer from the Philippines</h3> 
+<h3 align="center">A passionate Software Engineer from the Philippines</h3> 
 
+<!-- Background effect line of sight color red -->
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
+</div>
 
 - 👩🏻‍🎓 Aspiring Digital Forensic Analyst
 
