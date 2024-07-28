@@ -1,4 +1,10 @@
-<h1 align="center">Hi 👋, I'm Anilov</h1>
+<!-- Background github cover with short introduction down below -->
+<img src="https://github.com/tiquioani/tiquioani/blob/main/assets/digital-forensics-2.png" />
+<h1 align="center">
+Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30">, I'm <a href="https://github.com/tiquioani/" target="_blank" rel="noreferrer">Anilov Tiquio</a>
+</h1>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiquioani&label=Profile%20views&color=0e75b6&style=flat" alt="tiquioani" /> </p> 
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&color=00E901&center=true&width=435&lines=💙💙💙💎💎+A+N+I+L+O+V+💎💎💙💙💙" alt="Typing SVG" /></a></h3>   
 <h3 align="center">A passionate software engineer from the Philippines</h3> 
