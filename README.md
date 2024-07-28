@@ -4,10 +4,18 @@
 Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30">, I'm <a href="https://github.com/tiquioani/" target="_blank" rel="noreferrer">Anilov Tiquio</a>
 </h1>
 
+<!-- Introduction effect style for I'm a Digital Forensic Analyst -->
+<h3 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1865F7&center=true&vCenter=true&random=false&width=435&lines=I'm+a+Digital+Forensic+Analyst" alt="Typing SVG" /></a>
+</h3> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tiquioani&label=Profile%20views&color=0e75b6&style=flat" alt="tiquioani" /> </p> 
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&color=00E901&center=true&width=435&lines=💙💙💙💎💎+A+N+I+L+O+V+💎💎💙💙💙" alt="Typing SVG" /></a></h3>   
+<i class="fab fa-pinterest"></i>
+
+<!-- Introduction effect style for ANILOV -->
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&color=00E901&center=true&width=435&lines=💙💙💎💎+A+N+I+L+O+V+💎💎💙💙" alt="Typing SVG" /></a></h3>   
 <h3 align="center">A passionate software engineer from the Philippines</h3> 
+
+- 👩🏻‍🎓 Aspiring Digital Forensic Analyst
 
 - 👩🏻‍💻 Software Engineer practioner sharing about my journey and learnings in tech
 
