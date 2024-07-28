@@ -70,8 +70,8 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 <img width="200" height="200" src="https://media.giphy.com/media/kd9EcpTFNWEI5EeT5X/giphy.gif?cid=ecf05e47f4in87o3g4n1k9yyf6ix1az8qdo9lbno2fi02fah&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
  
   <img width="200" height="200" src="https://media.giphy.com/media/kd9EcpTFNWEI5EeT5X/giphy.gif?cid=ecf05e47f4in87o3g4n1k9yyf6ix1az8qdo9lbno2fi02fah&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 10px;" />
-  <img width="200" height="200" src="https://media.giphy.com/media/DiIxyaloyBVxKps4Nn/giphy.gif?cid=ecf05e478xag6tlcnkdmmuv92kdmmbawzvcfztss9f50x697&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 10px;" />
-  <img width="200" height="200" src="https://media.giphy.com/media/o00txYe5oF3UNTg2HS/giphy.gif?cid=ecf05e478xag6tlcnkdmmuv92kdmmbawzvcfztss9f50x697&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
+  <img width="200" height="200" src="https://media.giphy.com/media/O47WL6GH87Srp8yQD5/giphy.gif?cid=ecf05e47kc88gcgyjxe3zys7imm71274jv8hyfj7tevf7wa3&ep=v1_stickers_search&rid=giphy.gif&ct=ts" style="margin-right: 10px;" />
+  <img width="200" height="200" src="https://media.giphy.com/media/O47WL6GH87Srp8yQD5/giphy.gif?cid=ecf05e47kc88gcgyjxe3zys7imm71274jv8hyfj7tevf7wa3&ep=v1_stickers_search&rid=giphy.gif&ct=ts" style="margin-right: 20px;" />
   <img width="200" height="200" src="https://media.giphy.com/media/kd9EcpTFNWEI5EeT5X/giphy.gif?cid=ecf05e47f4in87o3g4n1k9yyf6ix1az8qdo9lbno2fi02fah&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
 
 
@@ -114,7 +114,7 @@ Visit this Github url for more icon preference: https://github.com/tandpfun/skil
   
 ![tiquioani GitHub stats](https://github-readme-stats.vercel.app/api?username=tiquioani&show_icons=true&theme=ambient_gradient)<br/>
 
-![tiquioani GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=tiquioani&theme=tokyonight&border=false)<br/>
+![tiquioani GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=tiquioani&theme=ambient_gradient&border=false)<br/>
 <!-- For more theme color visit this link https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 ![tiquioani GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tiquioani&langs_count=11&theme=ambient_gradient&border=false&include_all_commits=true&count_private=true&layout=compact) 
 
@@ -137,3 +137,29 @@ Visit this Github url for more icon preference: https://github.com/tandpfun/skil
 
 ### ✍️ Random Dev Quote 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)    
+
+<!-- Introduction Pannel button link, it will redirect to the top -->
+#### [Back to Table of Content](#introduction)
+<!-- End point line insert Thanks for visiting enjoy your day, feel free to modify this  -->
+---
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=Thanks+For+Visiting+On+My+GitHub+~!;" alt="mystreak"/>
+</p>
+
+<!-- Di tayo pwede -->
+<div align="center">
+<img width="400" height="200" src="https://media.giphy.com/media/lntBbFbwRNn1BxYeaF/giphy.gif?cid=790b7611ip4j0rawtchjj2vkgegcjcwu92ubsbpnt40i2cjh&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
+</div>
+
+<!-- End point line insert Comeback again next time, feel free to modify this  -->
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=Come+Back+Again+next+time+~!;" alt="mystreak"/>
+</p>
+
+</p>
+    
+<br>
+<!-- End point insert background effect line of sight color red -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+
