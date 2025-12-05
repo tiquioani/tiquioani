@@ -18,7 +18,7 @@ I am studying Computer Science with specialization on Digital Forensics at Natio
 
 <p align="center">
 ✨ Coding & Problem Solving — I enjoy turning complex problems into elegant solutions.<br>
-✨ Detail-Oriented & Organized — clean code, neat documentation, structured systems.<br>
+✨ Detail-Oriented & Organized — Clean code, neat documentation, structured systems.<br>
 ✨ Books, Docs & Series — I learn a lot from stories, documentaries, and investigative breakdowns.<br>
 ✨ Deep Curiosity — When something fascinates me, I dive all the way down the rabbit hole.<br>
 </p>
